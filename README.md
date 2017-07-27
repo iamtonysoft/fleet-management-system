@@ -99,12 +99,13 @@
 ## Google Maps Usage
 
 **Standard Usage Limits**
-Free until exceeding 25,000 map loads per 24 hours.
-After exceeding the free usage limits, billing at $0.50 USD / 1000 additional requests, up to 100,000 per 24 hours.
+
+- Free until exceeding 25,000 map loads per 24 hours.
+- After exceeding the free usage limits, billing at $0.50 USD / 1000 additional requests, up to 100,000 per 24 hours.
 
 **Premium Usage Limits**
 
-Depends on plan that we will avail and applications we need (ex. JavaScript API, Mobile SDK, Street View, Geocoding API, Map Directions API)
+- Depends on plan that we will avail and applications we need (ex. JavaScript API, Mobile SDK, Street View, Geocoding API, Map Directions API)
 
 **Source:** [Google Maps Premium] (https://developers.google.com/maps/premium/calculate-credits)
 
