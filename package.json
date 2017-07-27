@@ -1,0 +1,27 @@
+{
+  "name": "fleet-management-system",
+  "version": "1.0.0",
+  "description": "Fleet Management System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamtonysoft/fleet-management-system.git"
+  },
+  "keywords": [
+    "Fleet",
+    "Management",
+    "System",
+    "Fleet",
+    "Monitoring",
+    "System"
+  ],
+  "author": "Anthony Cortez, John Paul, Johnny Yang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamtonysoft/fleet-management-system/issues"
+  },
+  "homepage": "https://github.com/iamtonysoft/fleet-management-system#readme"
+}
